@@ -1,8 +1,8 @@
 # React + Vite
 here is deployed link of vercel :
 https://food-swart-two.vercel.app/
-//
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+#This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
